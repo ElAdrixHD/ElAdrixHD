@@ -1,5 +1,13 @@
 # Hi everyone to my GitHub! 👋
 
+My name is Adrian. I'm from Granada (Spain).
+
+- 🔭 I’m currently working as backend developer and Android developer
+- 🌱 I’m currently learning Node-Red, Flutter and React Native
+- 💬 Ask me about everything
+- 😄 Pronouns: He
+- ⚡ Fun fact: I love videogames and Netflix
+
 <!--
 **ElAdrixHD/ElAdrixHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
